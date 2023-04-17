@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 반갑습니다.
+    text: 목원대학교 컴퓨터공학과홈페이지에 오신것을 환영합니다.
+    button: about more
     buttonlink: "#services"
 
   services:
@@ -21,11 +21,11 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "캡스톤디자인 기자재 구매"
+        desc: "50만원의 예산으로 기자재 구매가 가능합니다."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "학과 소개"
+        desc: "컴퓨터공학전공 , 융합미디어전공"
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
@@ -44,8 +44,8 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "대학원에 희망하는 청년"
+        year: "2018-2024"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
